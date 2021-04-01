@@ -3,3 +3,6 @@ data:
 
 env:
   - .env
+
+ab:
+  - db/data/*
