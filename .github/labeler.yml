@@ -1,8 +1,5 @@
-data:
+"Requires Data Migration":
   - db/data/*
 
-env:
+"ENV VAR change":
   - .env
-
-"A B":
-  - db/data/*
