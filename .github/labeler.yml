@@ -4,5 +4,5 @@ data:
 env:
   - .env
 
-ab:
+"A B":
   - db/data/*
